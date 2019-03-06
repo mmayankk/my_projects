@@ -51,7 +51,7 @@ class GameGrid(Frame):
         self.game_state = self.l['make_new_game'](GRID_LEN)
         self.update_grid_cells()
         self.mainloop()
-        
+        #setting the main loop
     def init_grid(self):
         background = Frame(self, bg=BACKGROUND_COLOR_GAME, width=SIZE, height=SIZE)
         background.grid()
