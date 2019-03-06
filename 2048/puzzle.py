@@ -28,7 +28,7 @@ KEY_LEFT = "'a'"
 KEY_RIGHT = "'d'"
 KEY_UNDO = "'z'"
 
-class GameGrid(Frame):
+class  GameGrid(Frame):
     
     def __init__(self, logic):
         Frame.__init__(self)
