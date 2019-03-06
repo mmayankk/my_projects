@@ -2,7 +2,7 @@
 from tkinter import *
 
 SIZE = 500
-GRID_LEN = 4
+GRID_LEN =  4
 GRID_PADDING = 10
 
 WHITE_COLOR = "#ffffff"
