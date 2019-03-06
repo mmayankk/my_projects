@@ -1,5 +1,5 @@
 # Game graphic interface
-from tkinter import *
+from tkinter import  *
 
 SIZE = 500
 GRID_LEN = 4
